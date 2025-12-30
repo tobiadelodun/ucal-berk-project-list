@@ -1,4 +1,5 @@
 **Coupon Acceptance Analysis**
+
 _Project Overview_
 
 This project analyzes customer acceptance behavior for different types of coupons using a real-world survey dataset. The objective is to identify which demographic, behavioral, and contextual factors are associated with higher coupon acceptance rates, with a particular focus on Bar and Coffee House coupons.
