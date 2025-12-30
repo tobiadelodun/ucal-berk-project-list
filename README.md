@@ -103,4 +103,4 @@ seaborn
 
 matplotlib
 
-Jupyter Notebook
+Jupyter Notebook: https://github.com/tobiadelodun/ucal-berk-project-list/blob/main/prompt.ipynb
