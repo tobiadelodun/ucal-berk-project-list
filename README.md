@@ -20,12 +20,7 @@ Do demographics such as age, income, occupation, and passenger composition influ
 
 Are there meaningful behavioral differences between Bar and Coffee House coupon acceptance?
 
-_Repository Structure_
-.
-├── README.md
-└── coupon_acceptance_analysis.ipynb
-
-Data Preparation
+_Data Preparation_
 
 Key preprocessing steps include:
 
